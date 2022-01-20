@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
 			b='1'+b;
 		n=n/2;
 	}
-	cout<<n;//uscita binario
+	cout<<b;//uscita binario
 	return 0;
 }
 /*
